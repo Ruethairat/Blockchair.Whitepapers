@@ -1690,7 +1690,7 @@
 | Zen Protocol | An Introduction to the Zen Protocol | https://www.zenprotocol.com/files/zen_protocol_white_paper.pdf | https://www.zenprotocol.com/ | N/P* |
 | Zenvow | Empowering awakened Civilization | http://zenvow.com/ico/public/zenvowwhitepaper.pdf | http://zenvow.com/ico/public/ | N/P* |
 | Zephyr | Project Zephyr | https://zephyr.bitspark.io/assets/v1/landing/downloads/Project_Zephyr_Whitepaper-0b69ab042ef4ff37bcd0909ac8672ee0c789ec5cefe05f80572c40ab2e0a2762.pdf | https://zephyr.bitspark.io/ | N/P* |
-| Zeusshield | ZSC-Blockchain AI insurance solution | https://zsc.io/files/ZSC%5FWhitepaper%5Fen.pdf | https://zsc.io/ | N/P* |
+| Zeusshield | ZSC-Blockchain AI insurance solution | https://zsc.io/files/ZSC%5FWhitepaper%5Fen.pdf | https://zsc.io
 | Zeus | Zeus | http://zeus-token.io/whitepaper.pdf | http://zeus-token.io/ | N/P* |
 | ZiftrCoin | ZiftrCoin | https://d2blsqhhpyjjcf.cloudfront.net/assets/docs/ziftrcoinWP-08122015.pdf | https://www.ziftrcoin.com | N/P* |
 | Zilla | ZILLA | https://zla.io/assets/landingpage/docs/ZILLA%5FWhite%5FPaper%5Fen.pdf | http://zla.io/ | N/P* |
